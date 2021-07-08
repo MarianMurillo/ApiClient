@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\comite La Esperanza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\comite La Esperanza\\.nuget\\packages"
+    ]
+  }
+}
